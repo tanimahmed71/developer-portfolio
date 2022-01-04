@@ -15,3 +15,12 @@ h2{
 .pera-1{
     color: maroon;
 }
+section{
+    display: flex;
+}
+.half-display1{
+    width: 70%;
+}
+.half-display2{
+    width: 30;
+}
