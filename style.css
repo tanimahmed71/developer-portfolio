@@ -1,6 +1,7 @@
 body{
     font-family: 'Asap', sans-serif;
 font-family: 'Slabo 27px', serif;
+font-size: larger;
 }
 h1{
     font-size: 60px;
@@ -18,9 +19,21 @@ h2{
 section{
     display: flex;
 }
-.half-display1{
-    width: 70%;
+.half-display{
+    width: 50%;
 }
-.half-display2{
-    width: 30;
+.half-display img{
+   width: 100%;
 }
+.link-disign{
+ background-color: orange;
+  background-image: linear-gradient(orange,tomato);
+  text-decoration: none;
+  padding: 10px 40px; 
+  border-radius: 15px;
+  font-weight: 700;
+  font-size: larger;
+  color: white;
+  
+}
+
