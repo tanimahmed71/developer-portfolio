@@ -12,7 +12,8 @@ h1{
     color: lightcoral;
 }
 h2{
-    color: lightgreen;
+    font-size: 45px;
+    color: rgb(13, 65, 95);
 }
 .pera-1{
     color: maroon;
@@ -27,6 +28,7 @@ h2{
 }
 .half-display img{
    width: 100%;
+
 }
 .link-disign{
  background-color: orange;
@@ -49,5 +51,18 @@ h2{
     background-position: right;
     padding-right: 10px;
 }
+.experians-item{
 
+    box-shadow: 10px 7px 7px 8px rgb(112, 145, 112);
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50%;
+    padding: 30px;
+    border-radius: 2%;
+    border-left: 10px solid;
+}
+ .experians-area{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;           
+ }
 
