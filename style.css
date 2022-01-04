@@ -1,3 +1,11 @@
+body{
+    font-family: 'Asap', sans-serif;
+font-family: 'Slabo 27px', serif;
+}
 h1{
-    color: cornflowerblue;
+    font-size: 60px;
+}
+.name-color
+{
+    color: lightcoral;
 }
