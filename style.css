@@ -53,16 +53,29 @@ h2{
 }
 .experians-item{
 
-    box-shadow: 10px 7px 7px 8px rgb(112, 145, 112);
+    box-shadow: 10px 7px 7px 8px rgb(47, 56, 47);
     margin-left: 5%;
     margin-right: 5%;
     width: 50%;
     padding: 30px;
-    border-radius: 2%;
-    border-left: 10px solid;
+    border-radius: 2%; 
+    border-width: 20px green;
+
 }
  .experians-area{
      background-image: url(images/exp-bg.png);
      background-repeat: no-repeat;           
  }
-
+ #wev-dev-experience{
+     border-left: 10px solid;
+     border-image: linear-gradient(green, yellow);
+     border-image-slice:1;
+ }
+ #baby-wev-dev{
+     border-left: 10px solid;
+     border-image: linear-gradient( yellow,green);
+     border-image-slice: 1;
+ }
+ footer{
+     text-align: center;
+ }
