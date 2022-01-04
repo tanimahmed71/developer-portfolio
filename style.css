@@ -2,6 +2,7 @@ body{
     font-family: 'Asap', sans-serif;
 font-family: 'Slabo 27px', serif;
 font-size: larger;
+margin: 0%;
 }
 h1{
     font-size: 60px;
@@ -35,5 +36,9 @@ section{
   font-size: larger;
   color: white;
   
+}
+.top-benar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 
