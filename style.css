@@ -19,9 +19,11 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 70px;
 }
 .half-display{
     width: 50%;
+    padding-left: 100px;
 }
 .half-display img{
    width: 100%;
@@ -41,4 +43,11 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 10px;
+}
+
 
