@@ -17,7 +17,7 @@ h2{
 .pera-1{
     color: maroon;
 }
-section{
+.flaxiable-container{
     display: flex;
     margin-bottom: 70px;
 }
